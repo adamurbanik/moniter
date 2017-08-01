@@ -1,0 +1,17 @@
+{
+  "name": "moniter",
+  "description": "",
+  "main": "gulpfile.js",
+  "authors": [
+    "Piotr Chlebda"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/adamurbanik/moniter",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
