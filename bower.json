@@ -13,5 +13,28 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "angular-material": "^1.0.7",
+    "angular-ui-router": "ui-router#^0.2.18",
+    "angular": "^1.6.5",
+    "angular-ui-tinymce": "^0.0.15",
+    "ng-flow": "~2",
+    "angular-material-data-table": "^0.10.9",
+    "angular-cookies": "^1.6.5",
+    "lodash": "^4.12.0",
+    "angular-permission": "^3.1.4",
+    "moment": "^2.13.0",
+    "angular-messages": "^1.5.5",
+    "d3": "^3.5.17",
+    "dom-to-image": "^2.5.2",
+    "jspdf": "^1.2.61",
+    "tinymce": "^4.4.3"
+  },
+  "devDependencies": {
+    "angularUtils-pagination": "angular-utils-pagination#^0.11.1",
+    "angular-ui-tinymce": "^0.0.15",
+    "d3": "^3.5.17",
+    "angular-translate": "^2.11.0"
+  }
 }
